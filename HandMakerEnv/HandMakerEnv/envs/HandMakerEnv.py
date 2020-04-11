@@ -48,6 +48,6 @@ class HandMaker(gym.Env):
     def reset(self):
         self.deck = treys.deck.Deck()
         self.done = False
-        self.card_ints = seld.deck.draw(13)
+        self.card_ints = self.deck.draw(13)
         return self._get_obs()
         
