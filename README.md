@@ -6,6 +6,4 @@ Train an agent to select the best five card poker hand from random cards with de
 
 * `AgentTraining` contains files for training agents in the environments
 
-* `notebook_dev` contains files for development and misc materials
-
 * `requirements.txt` will be updated with a better way to replicate the environment used for training 
