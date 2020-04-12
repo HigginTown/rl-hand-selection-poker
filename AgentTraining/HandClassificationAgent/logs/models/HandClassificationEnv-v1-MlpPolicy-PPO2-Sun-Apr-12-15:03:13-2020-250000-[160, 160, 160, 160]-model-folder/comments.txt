@@ -1,0 +1,4 @@
+The model seems to be overfitting since the recall has acheived near 1.00 for the two most common classes, but is 0.00 for all less common classes. 
+
+
+
