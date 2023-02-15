@@ -234,7 +234,7 @@ watson-developer-cloud==2.10.1
 watson-machine-learning-client==1.0.53
 wcwidth==0.1.7
 websocket-client==0.48.0
-Werkzeug==0.14.1
+Werkzeug==2.2.3
 widgetsnbextension==2.0.0
 wkhtmltopdf==0.2
 wrapt==1.10.10
